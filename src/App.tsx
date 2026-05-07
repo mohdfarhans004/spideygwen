@@ -376,7 +376,7 @@ export default function App() {
                   <div className="h-0.5 w-0.5 bg-pink-200 rounded-full"></div>
                   <span className="text-gray-400 text-[10px] font-sans tracking-tight">June 15</span>
                 </div>
-                <Countdown targetDate="2026-05-08T12:55:00" name={name} />
+                <Countdown targetDate="2026-05-08T00:58:00" name={name} />
               </div>
               
               <h1 className="text-5xl md:text-7xl font-serif italic text-gray-800 tracking-tight leading-tight mb-4">
